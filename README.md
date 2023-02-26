@@ -17,13 +17,13 @@ To get started with this project, you will need to clone this repository and ope
 2. Open the project in Android Studio
 3. Add the Volley library to your project by adding the following line to your app's build.gradle file:
 
-implementation 'com.android.volley:volley:1.2.1'
+`implementation 'com.android.volley:volley:1.2.1'`
 
 ## Running the Tests
 
 This project includes unit tests and integration tests. To run the tests, use the following command:
 
-./gradlew test
+`./gradlew test`
 
 ## Deployment
 
@@ -41,11 +41,11 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## Authors
 
-- Your Name
+- Rakibul Islam
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under this website https://google.github.io/volley/
 
 ## Acknowledgments
 
